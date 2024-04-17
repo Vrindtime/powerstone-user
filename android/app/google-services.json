@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "395123801284",
+    "project_id": "powerstone-gym",
+    "storage_bucket": "powerstone-gym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395123801284:android:39c34ec239e624e0fd1d91",
+        "android_client_info": {
+          "package_name": "com.example.gym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfKnKzm6ULzc7MOTuT5nni564Uvb0IecU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395123801284:android:b3c4468d6cca37fbfd1d91",
+        "android_client_info": {
+          "package_name": "com.example.powerstone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfKnKzm6ULzc7MOTuT5nni564Uvb0IecU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

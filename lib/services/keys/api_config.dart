@@ -1,0 +1,3 @@
+class ApiConfig{
+  static const String cloudMessagingAPI = 'AAAAW_82vMQ:APA91bE7IIj3GewzrfW0Yxl3JXO8G_eCiQhuXRxqedsWxHTCNl1TOmkT4pngTJHfLOUom8Gz7NOwr1J7ncxc-qj9naA-uIOZRktE6fstUnadly5OFDUwAVq5HgJoplEFuhmHHTqnMMDj';
+}
